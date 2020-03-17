@@ -1,0 +1,16 @@
+{
+    "0": [
+        {
+            "text": "a professional football club",
+            "probability": 0.9913894806342436,
+            "start_logit": 6.348413944244385,
+            "end_logit": 6.520857810974121
+        },
+        {
+            "text": "",
+            "probability": 0.008610519365756544,
+            "start_logit": 4.035576820373535,
+            "end_logit": 4.08757209777832
+        }
+    ]
+}
